@@ -1,0 +1,7 @@
+{
+  "name": "unicode",
+  "id": "815259227674816252",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
